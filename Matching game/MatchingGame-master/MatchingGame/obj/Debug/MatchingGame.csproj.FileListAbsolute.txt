@@ -1,0 +1,11 @@
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\ittas\Downloads\MatchingGame-master\MatchingGame-master\MatchingGame\obj\Debug\MatchingGame.pdb
